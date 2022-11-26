@@ -38,7 +38,35 @@
       color: rgb(99, 99, 99);
     }
     iframe[src*="ads-iframe"] { display: none; } /* Hide ads iframe */
+    img {
+      width: 90%;
+      display: block;
+      margin: auto;
+    }
+    figcaption {
+      text-align: center;
+      font-size: 15px;
+      color: rgb(99, 99, 99);
+      margin-top: 10px;
+      font-style: italic;
+    }
+    figure {
+      margin-top: 20px;
+      margin-bottom: 20px;
+    }
   </style>
+  <script>
+    window.onload = function () {
+      images = document.getElementsByTagName('img');
+      for (var i = 0; i < images.length; i++) {
+        caption = images[i].getAttribute('alt');
+        if (caption) {
+          images[i].outerHTML = '<figure>' + images[i].outerHTML + '<figcaption> Fig. ' + (i+1)+ "&nbsp;&nbsp; " + caption + '</figcaption></figure>';
+        }
+      }
+        
+    }
+  </script>
 
   <body>
 
