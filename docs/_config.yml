@@ -21,12 +21,13 @@
 title: Ryan Wans Blog
 email: contact@ryanwans.com
 description: >- # this means to ignore newlines until "baseurl:"
-  My blog.
+  Test
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://blog.ryanwans.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: none
 github_username:  ryanrocket
-
+mastodon:
+- username: "rwans"
+  instance: "mathstodon.xyz"
 # Build settings
 theme: minima
 plugins:
