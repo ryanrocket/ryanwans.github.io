@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {%- include head.html -%}
+  {% if page.katex %}
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@latest/dist/katex.min.css"/>
+
+  <!-- JavaScript -->
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@latest/dist/katex.min.js"></script>
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@latest/dist/contrib/auto-render.min.js"
+    onload="renderMathInElement(document.body,{
+      delimiters: [
+        { left: '$$',  right: '$$',  display: true  },
+        { left: '$',   right: '$',   display: false },
+        { left: '\\[', right: '\\]', display: true  },
+        { left: '\\(', right: '\\)', display: false }
+    ]});">
+  </script>
+
+  {% endif %}
+  <style>
+    .post-content {
+      font-size: 18px;
+    }
+    blockquote {
+      font-family: "Times New Roman", Times, serif;
+      border: 1px black solid;
+      padding: 5px 10px;
+      margin-bottom: 10px;
+      color: black;
+      font-style: normal;
+      font-size: 18px;
+      letter-spacing: -0.1px;
+    }
+  </style>
+
+  <body>
+
+    {%- include header.html -%}
+
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </main>
+
+    {%- include footer.html -%}
+
+  </body>
+
+</html>
