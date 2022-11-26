@@ -1,5 +1,6 @@
 ---
 layout: default
+katex: True
 ---
 
 <div class="home">
@@ -16,7 +17,7 @@ layout: default
       <li>
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         <span class="post-meta">{{ post.date | date: date_format }}</span>
-        <h3>
+        <h3 style="margin-bottom: 5px!important;">
           <a class="post-link" href="{{ post.url | relative_url }}">
             {{ post.title | escape }}
           </a>
@@ -24,11 +25,28 @@ layout: default
         {%- if site.show_excerpts -%}
           {{ post.excerpt }}
         {%- endif -%}
+        <p class="post-cat">
+          <b>Topic: </b> {{ post.categories | join: "" | capitalize }}
+        </p>
       </li>
       {%- endfor -%}
     </ul>
 
     <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
   {%- endif -%}
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.12.0/dist/katex.min.css" integrity="sha384-AfEj0r4/OFrOo5t7NnNe46zW/tFgW6x/bCJG8FqQCEo3+Aro6EYUG4+cU+KJWu/X" crossorigin="anonymous">
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.12.0/dist/katex.min.js" integrity="sha384-g7c+Jr9ZivxKLnZTDUhnkOnsh30B4H0rpLUpJ4jAIKs4fnJI+sEnkvrMWph2EDg4" crossorigin="anonymous"></script>
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.12.0/dist/contrib/auto-render.min.js" integrity="sha384-mll67QQFJfxn0IYznZYonOWZ644AWYC+Pt2cHqMaRhXVrursRwvLnLaebdGIlYNa" crossorigin="anonymous"></script>
+  <script>
+      document.addEventListener("DOMContentLoaded", function() {
+        renderMathInElement(document.body,{
+          delimiters: [
+            { left: '$$',  right: '$$',  display: true  },
+            { left: '$',   right: '$',   display: false },
+            { left: '\\[', right: '\\]', display: true  },
+            { left: '\\(', right: '\\)', display: false }
+        ]});
+      });
+  </script>
 
 </div>

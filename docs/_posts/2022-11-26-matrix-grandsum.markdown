@@ -4,8 +4,12 @@ title:  "On The Grand Sum of Matrices"
 date:   2022-11-25 23:18:45 -0500
 categories: maths
 katex: True
+excerpt_separator: <!--more-->
+author: "Ryan Wans"
+comments: True
 ---
 Here's a little quirk I've recently stumbled upon. It seems as if the number of operations required to calculate the "grand sum" of a matrix is bounded by $n^2$ where $n$ is the order of the matrix. While this makes sense, let us explore some of the ways one can define this sum.
+<!--more-->
 
 ---
 <br>
