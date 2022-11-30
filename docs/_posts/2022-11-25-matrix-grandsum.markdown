@@ -32,15 +32,15 @@ where one can iterate over each row and column. This makes sense, but is indeed 
 What's interesting, however, is that there a rather simple way to express this. 
 
 <blockquote>
-<b>Corollary</b> If the grand sum of some matrix $\mathbb{A}$ is defined in $(1.2)$, one can also express the grand sum as a product such that
-$$\mathrm{grandsum}(\mathbb{A})=e^{T}\mathbb{A}e$$
-where $e$ is some $n \times 1$ matrix of 1's.
+<b>Corollary</b> If the grand sum of some matrix $\mathbb{A}$ of order $n$ is defined in $(1.2)$, one can also express the grand sum as a product such that
+$$\mathrm{grandsum}(\mathbb{A})=\textbf{e}^{T}\mathbb{A}\textbf{e}$$
+where $\textbf{e}$ is the sum of the standard basis vectors $\sum_{i \in S}\textbf{e}_{i}$ in the vector space of $\mathbb{R}^n$.
 </blockquote>
 
 Let's explore this further. Suppose we start from the same matrix as defined in $(1.1)$ of some order $n$. 
 
 $$
-\mathbb{A}e=\begin{bmatrix}
+\mathbb{A}\textbf{e}=\begin{bmatrix}
 a_{11} & \cdots & a_{1n} \\
 \vdots & \ddots & \vdots \\
 a_{n1} & \cdots & a_{nn}
@@ -60,7 +60,7 @@ a_{n1} & \cdots & a_{nn}
 Then applying the transpose of $e$ to this result:
 
 $$
-e^{T}\mathbb{A}e=
+\textbf{e}^{T}\mathbb{A}\textbf{e}=
 \begin{bmatrix}
 1 & \cdots & 1
 \end{bmatrix}
@@ -77,3 +77,7 @@ e^{T}\mathbb{A}e=
 An identical result is shown. The corollary above provides an interesting way of looking at the grand sum operation. Though it is arguably much more intensive to compute at larger scales, it is certainly an intuitive way to observe what happens during the sum.
 
 So how does the use of the grand sum compare to something like the trace $\mathrm{tr}(\mathbb{A})$ of a matrix? While it's not as widely used (or known), [this article](https://math.stackexchange.com/questions/4177851/what-does-the-grand-sum-of-a-linear-transformation-matrix-tell-us-about-its-acti) provides a great explaination of one of it's uses.
+
+<note>
+<b>Edited 11/29/2022:</b> Clarify what $\textbf{e}$ represents.
+</note>
