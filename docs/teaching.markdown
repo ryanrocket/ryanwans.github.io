@@ -34,4 +34,7 @@ In the Spring '24 semester, I intend on TA-ing or SI-ing either Linear Algebra o
 
 <blockquote style="background-color: lavender">
 <b>Course Notes & Study Guides</b>
+<ul>
+    <li>None</li>
+</ul>
 </blockquote>
