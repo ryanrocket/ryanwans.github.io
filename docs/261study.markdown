@@ -6,7 +6,7 @@ layout: page
 permalink: /teaching/261study/
 header: False
 ---
-<h2>MA261/362 Study Group</h2>
+<h2>Fall 2023 MA261/362 Study Group</h2>
 
 I will be hosting a combined 261/362 Multivariable Calculus study group for midterms exams and the final exam. This is for the Fall 2023 semester.
 <br>

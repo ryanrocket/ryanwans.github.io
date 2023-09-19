@@ -6,7 +6,7 @@ layout: page
 permalink: /teaching/265study/
 header: False
 ---
-<h2>MA265/351 Study Group</h2>
+<h2>Fall 2023 MA265/351 Study Group</h2>
 
 I will be hosting a combined 265/351 Linear Algebra study group for midterms exams and the final exam. This is for the Fall 2023 semester.
 <br>

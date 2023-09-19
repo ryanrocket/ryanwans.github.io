@@ -13,8 +13,8 @@ permalink: /teaching/
 <blockquote style="background-color: lemonchiffon">
 <b>Current Sections:</b>
 <ul>
-    <li><a href="/teaching/265study">265/351 Study Group</a></li>
-    <li><a href="/teaching/261study">261/362 Study Group</a></li>
+    <li><a href="/teaching/265study">Fall 2023 MA265/351 Study Group</a></li>
+    <li><a href="/teaching/261study">Fall 2023 MA261/362 Study Group</a></li>
 </ul>
 </blockquote>
 
