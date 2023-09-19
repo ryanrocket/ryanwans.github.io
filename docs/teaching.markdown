@@ -7,16 +7,14 @@ title: Teaching
 permalink: /teaching/
 ---
 
-In the Spring '24 semester, I intend on TA-ing or SI-ing either Linear Algebra or Multivariable Calculus. This page will be updated accordingly. 
-<br>
-
 ---
 
 <br>
 <blockquote style="background-color: lemonchiffon">
 <b>Current Sections:</b>
 <ul>
-    <li>None</li>
+    <li><a href="/teaching/265study">265/351 Study Group</a></li>
+    <li><a href="/teaching/261study">261/362 Study Group</a></li>
 </ul>
 </blockquote>
 
