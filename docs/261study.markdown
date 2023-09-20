@@ -13,8 +13,8 @@ I will be hosting a combined 261/362 Multivariable Calculus study group for midt
 
 ---
 
-<b>Time:</b> TBD<br>
-<b>Location:</b> TBD<br>
+<b>Time:</b> Sundays at 7pm<br>
+<b>Location:</b> At or near WALC 3068<br>
 <b>When2Meet:</b> <a href="https://www.when2meet.com/?21448597-NZUPv">Click here.</a>
 
 ---
