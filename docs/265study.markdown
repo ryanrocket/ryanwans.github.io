@@ -13,8 +13,8 @@ I will be hosting a combined 265/351 Linear Algebra study group for midterms exa
 
 ---
 
-<b>Time:</b> TBD<br>
-<b>Location:</b> TBD<br>
+<b>Time:</b> 4pm on Saturdays<br>
+<b>Location:</b> At or near SCHM 113<br>
 <b>When2Meet:</b> <a href="https://www.when2meet.com/?21448284-hn2O8">Click here.</a>
 
 ---
