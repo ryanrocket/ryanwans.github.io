@@ -22,4 +22,6 @@ I will be hosting a combined 265/351 Linear Algebra study group for midterms exa
 #### **Useful Links**
 <ul>
     <li><a href="https://www.math.purdue.edu/academic/courses/semester/202410/ma26500/resources/26500_exam1_seatingcharts.pdf">MA265 Midterm 1 Seating Chart</a></li>
+    <li><a>Midterm 1 Lecture Notes</a></li>
+    <li><a>Important Theorems</a></li>
 </ul>
