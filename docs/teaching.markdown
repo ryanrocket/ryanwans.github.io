@@ -13,8 +13,7 @@ permalink: /teaching/
 <blockquote style="background-color: lemonchiffon">
 <b>Current Sections:</b>
 <ul>
-    <li><a href="/teaching/265study">Fall 2023 MA265/351 Study Group</a></li>
-    <li><a href="/teaching/261study">Fall 2023 MA261/362 Study Group</a></li>
+    <li><a href="https://www.math.purdue.edu/academic/courses/semester/202420/ma26500/index.html">(TA) Spring 2024 MA26500 Linear Algebra</a></li>
 </ul>
 </blockquote>
 
