@@ -7,6 +7,7 @@ katex: True
 excerpt_separator: <!--more-->
 author: "Ryan Wans"
 comments: True
+published: False
 ---
 An update on my recent research endeavors and future plans.
 <!--more-->
