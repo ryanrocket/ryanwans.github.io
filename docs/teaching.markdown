@@ -32,6 +32,6 @@ permalink: /teaching/
 <blockquote style="background-color: lavender">
 <b>Course Notes & Study Guides</b>
 <ul>
-    <li>None</li>
+    <li><a href="/images/guides/ece20875.pdf" target="_blank">ECE20875 Python for Data Science</a></li>
 </ul>
 </blockquote>
