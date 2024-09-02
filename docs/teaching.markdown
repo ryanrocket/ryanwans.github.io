@@ -13,7 +13,7 @@ permalink: /teaching/
 <blockquote style="background-color: lemonchiffon">
 <b>Current Sections:</b>
 <ul>
-    <li>None</li>
+    <li><a href="https://engineering.purdue.edu/ECE/Academics/Undergraduates/UGO/CourseInfo/courseInfo?courseid=729&show=true&type=undergrad"> (TA) Fall 2024 ECE20875 Python for Data Science</a></li>
 </ul>
 </blockquote>
 
