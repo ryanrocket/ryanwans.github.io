@@ -7,6 +7,7 @@ katex: True
 excerpt_separator: <!--more-->
 author: "Ryan Wans"
 comments: True
+published: False
 ---
 Observing the behavior of $B(n, p)$ for $np \in \mathbb{Z}$.
 <!--more-->
