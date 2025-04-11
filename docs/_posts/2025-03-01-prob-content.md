@@ -1,21 +1,21 @@
 ---
 layout: post
-title:  "Interesting Property of Binomial Distributions"
-date:   2024-10-10 01:00:00 -0500
-categories: maths, ece
+title:  "Content Approach to Probability"
+date:   2025-03-01 01:00:00 -0500
+categories: maths
 katex: True
 excerpt_separator: <!--more-->
 author: "Ryan Wans"
 comments: True
 published: False
 ---
-Observing the behavior of $B(n, p)$ for $np \in \mathbb{Z}$.
+Rigorizing probabilistic notions using the typical Riemann integral under Peano-Jordan content. Goodbye Lebesgue integral! 
 <!--more-->
 
 ---
 <br>
 
-We have the following proposition, which seems deceptively simple and intuitive, but is actually quite interesting. 
+In probability, we are often concerned with assigning measure to sets over certain spaces. We typically endow such spaces with enough structure to become $\sigma$-fields, to which we assign measure under some simple axioms. This work that put into abstraction usually pays off when it comes to handling messy situations in probability; calculus over indicator or impulse functions, handling random variables and their pre-images, regrettable sample spaces, etc. 
 
 <blockquote>
 <b>Proposition.</b> Given $X \sim B(n, p)$ and $np \in \mathbb{Z}$, we have that 

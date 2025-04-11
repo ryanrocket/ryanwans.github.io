@@ -18,15 +18,9 @@
             {%- if site.email -%}
             <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
             {%- endif -%}
+            <br />
+            {%- include social.html -%}
         </ul>
-      </div>
-
-      <div class="footer-col footer-col-2">
-        {%- include social.html -%}
-      </div>
-
-      <div class="footer-col footer-col-3">
-        <p>A collection of {{ site.posts | size }} posts about mathematics, electrical engineering, and other updates.</p>
       </div>
     </div>
 
