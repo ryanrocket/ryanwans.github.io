@@ -17,4 +17,19 @@
 
     gtag('config', 'G-RVVB2LHS32');
   </script>
+  <script>
+    window.addEventListener("load", (event) => {
+      async function sha256(message) {const msgBuffer = new TextEncoder().encode(message);const hashBuffer = await crypto.subtle.digest('SHA-256', msgBuffer);const hashArray = Array.from(new Uint8Array(hashBuffer));const hashHex = hashArray.map(b => b.toString(16).padStart(2, '0')).join('');return hashHex;}
+      const openCVButton = document.getElementById('open_cv');
+      openCVButton.addEventListener('click', async () => {
+        const p = await sha256(prompt("Passphrase:"))
+        console.log(p, p.substr(0, 32));
+        if (p.substr(0, 32) == "{{ site.passphrase }}") {
+          window.open(`/images/${p}.pdf`, "_blank");
+        } else {
+          alert("Incorrect passphrase.");
+        }
+      });
+    });
+  </script>
 </head>

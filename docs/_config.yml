@@ -34,6 +34,7 @@ kramdown:
   math_engine: katex
 show_excerpts: True
 highlighter: rouge
+passphrase: "1e0eb44cb12bd70fd4eea48276508661"
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
