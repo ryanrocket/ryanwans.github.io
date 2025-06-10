@@ -34,5 +34,8 @@ permalink: /teaching/
 <b>Course Notes & Study Guides</b>
 <ul>
     <li><a href="/images/guides/ece20875.pdf" target="_blank">ECE20875 Python for Data Science</a></li>
+    <li><a href="/images/ma442/ME1Solns.pdf" target="_blank">MA442 Midterm Exam 1 Attempt</a></li>
+    <li><a href="/images/ma442/ME2Solns.pdf" target="_blank">MA442 Midterm Exam 2 Attempt</a></li>
+    <li><a href="/images/ma442/FESolns.pdf" target="_blank">MA442 Final Exam Attempt</a></li>
 </ul>
 </blockquote>
