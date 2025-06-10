@@ -13,6 +13,7 @@ permalink: /teaching/
 <blockquote style="background-color: lemonchiffon">
 <b>Current Sections:</b>
 <ul>
+    <li>None (the pay is bad)</li>
 </ul>
 </blockquote>
 
