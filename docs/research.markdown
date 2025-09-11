@@ -6,7 +6,8 @@ layout: page
 title: Research
 permalink: /research/
 ---
-My current research is in the fields of causality, information theory, and machine learning. I also work on RFIC/MMIC design and the automation of its inner tasks. I have worked with research groups at Purdue, Columbia University, and the University of Michigan. For a more in-depth look at this, please reference my CV above. 
+My current research is in the fields of information theory, federated machine/statistical learning, and causality. I'm also currently being mentored in connections between harmonic analysis, geometry, and analysis on manifolds. 
+I also work on RFIC/MMIC design and the automation of its inner tasks. I have worked with research groups at Purdue, Columbia University, and the University of Michigan. For a more in-depth look at this, please reference my CV above. 
 
 ### **Notable Publications/Preprints**
 [2] Ali Hammoud, Anhang Li, Ayushman Tripathi, Wen Tian, Harsh Khandeparkar, **Ryan Wans**, *et al.*, "<a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7fh12CIAAAAJ&citation_for_view=7fh12CIAAAAJ:u5HHmVD_uO8C" target="_blank">Reinforcement Learning-Enhanced Cloud-Based Open Source Analog Circuit Generator for Standard and Cryogenic Temperatures in 130-nm and 180-nm OpenPDKs</a>" in IEEE ICCAD 2024 Proceedings, October, 2024 <br>
