@@ -6,7 +6,7 @@ layout: page
 title: Research
 permalink: /research/
 ---
-My current research is in the fields of information theory, federated machine/statistical learning, and causality. I'm also currently being mentored in connections between harmonic analysis, geometry, and analysis on manifolds.<br> 
+My current research is in the fields of information theory, federated machine/statistical learning, and causality. I'm also currently being mentored in connections between harmonic analysis and differential geometry.<br> 
 I also work on RFIC/MMIC design and the automation of its inner tasks. I have worked with research groups at Purdue, Columbia University, and the University of Michigan. For a more in-depth look at this, please reference my CV above. 
 
 ### **Notable Publications/Preprints**
