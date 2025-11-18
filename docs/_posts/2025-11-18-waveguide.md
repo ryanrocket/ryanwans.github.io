@@ -16,7 +16,7 @@ We provide a short exposition on the connections between mode orthogonality in w
 
 Here, we give a short exposition showing that orthogonality of electromagnetic modes follows directly from the fact that the curl–curl operator is Hermitian in a lossless, isotropic medium.
 
-As usual, the intention here is not to emphasize applications, but rather to highlight a clean mathematical structure in Maxwell theory.
+As usual, the intention here is not to emphasize applications, but rather to highlight a clean mathematical structure in Maxwellian theory.
 
 Consider the case of a linear, isotropic, homogeneous, and non-dispersive medium such that $\mu$ and $\epsilon$ are real, positive scalars. Since Maxwell's equations satisfy the vector Helmholtz equation
 
