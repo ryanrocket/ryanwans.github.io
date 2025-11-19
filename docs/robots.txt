@@ -2,3 +2,4 @@ User-agent: *
 Disallow: /images/cv.pdf
 Disallow: /images/1e0eb44cb12bd70fd4eea48276508661786e9ea00f8b5a8d2316aac13f0d598f.pdf
 Allow: /
+Sitemap: https://ryanwans.com/sitemap.xml
