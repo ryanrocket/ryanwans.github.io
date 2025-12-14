@@ -16,6 +16,7 @@ Competition, November, 2022
 
 ### **Talks & Presentations**
 <ul>
+    <li>14-16 GHz Sliding-IF Receiver on 45nm CMOS (2025), <a href="/images/slidingif.pdf">Paper here</a>, <a href="/images/FinalPresentation.pdf">Slides here</a></li>
     <li>Spectral Theory and Geometry (2025), <a href="/images/specgeo.pdf">Slides here</a></li>
     <li>NIST + UMich LC-VCO Design on SKY130 (2022), <a href="https://docs.google.com/presentation/d/1D1xtGxNw6DnFjfu_1bOeNGUwugELFMWQQ2iw7rKxPHw/edit?usp=sharing">Slides here</a></li>
     <li>NIST + UMich SKY130 Inductor Characterization (2022), <a href="https://docs.google.com/presentation/d/1GCBY3_LZzK186IWdLkqmY3F6wRBatrKWzQwUdeFaI3Q/edit?usp=sharing">Slides here</a></li>
