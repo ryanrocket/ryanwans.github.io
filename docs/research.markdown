@@ -14,7 +14,7 @@ I also work on RFIC/MMIC design and the automation of its inner tasks. I have wo
 [1] **Ryan Wans**, “<a href="https://github.com/ryanrocket/sscs-ose-code-a-chip.github.io/blob/main/Notebooks/LCVCO%20Notebook/VCONotebook.ipynb">Open Source 2.4GHz LC-VCO in SKY130,</a>” in ISSCC 2023 Student Notebook
 Competition, November, 2022
 
-### **Talks & Presentations**
+### **Talks, Presentations, Projects**
 <ul>
     <li>14-16 GHz Sliding-IF Receiver on 45nm CMOS (2025), <a href="/images/slidingif.pdf">Paper here</a>, <a href="/images/FinalPresentation.pdf">Slides here</a></li>
     <li>Spectral Theory and Geometry (2025), <a href="/images/specgeo.pdf">Slides here</a></li>

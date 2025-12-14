@@ -36,6 +36,6 @@ permalink: /teaching/
 <ul>
     <li><a href="/images/guides/ece20875.pdf" target="_blank">ECE20875 Python for Data Science</a></li>
     <li><a href="/images/ME1Solns.pdf" target="_blank">MA442 (Multivar. Real Analysis) Midterm Exam 1 Attempt</a></li>
-    <li><a href="" target="_blank">ECE60420 14-16 GHz Sliding-IF Receiver on 45nm CMOS</a></li>
+    <li><a href="/images/slidingif.pdf" target="_blank">ECE60420 14-16 GHz Sliding-IF Receiver on 45nm CMOS</a></li>
 </ul>
 </blockquote>
