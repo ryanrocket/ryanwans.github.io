@@ -13,7 +13,7 @@ permalink: /teaching/
 <blockquote style="background-color: lemonchiffon">
 <b>Current Sections:</b>
 <ul>
-    <li>None</li>
+    <li>(TA) Spring 2026 ECE30200 Probabilistic Methods</li>
 </ul>
 </blockquote>
 
