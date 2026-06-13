@@ -76,7 +76,7 @@ Now to unveil the Acyclic Models Theorem and neat application of it. The stateme
 <proof>
     <i>Proof.</i> Again for brevity (and sake of my fingers) I will not typset the full proof. The concept is analogous to the proof used earlier, just now using the diagram
 
-    <img src="/images/algtop/amt.svg" style="width:70%" />
+    <img src="/images/algtop/amt.svg" alt="Compare back to Figure 4" style="width:70%" />
 
     and extending to arbitrary $X \in \text{ob}(\mathcal{C})$ by naturality. Briefly, the first part (existence) is shown by constructing $\tilde{\eta}_0$ using the freeness of $F$ and the natural transformation $\eta$, and then lifting to $\tilde{\eta}_1$ using the acyclicity of $G$ on the models. The second part (uniqueness up to chain homotopy) is shown by observing that any two lifts differ by a chain map which is null-homotopic, which can be seen using the acyclicity of $G$ on the models. I may append this with a full proof in the near future, but its late right now. It's a fun one!
 
