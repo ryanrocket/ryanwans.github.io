@@ -84,7 +84,7 @@ Now to unveil the Acyclic Models Theorem and neat application of it. The stateme
     <end>$\blacksquare$</end>
 </proof>
 
-Now for a neat little example to bring this categorical nonsense back to earth. 
+Take notice of the similarity between being free on $\mathcal{M}$ and the free sequence in FTHA, and the similarity between being acyclic on $\mathcal{M}$ and the exact sequence in FTHA. Now for a neat little example to bring this categorical nonsense back to earth. 
 
 <blockquote>
 <b>Example 1.</b> Let $\mathcal{C} = \text{Top}^2$ and our models be pairs of simplicies
