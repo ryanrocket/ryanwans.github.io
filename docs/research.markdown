@@ -16,6 +16,7 @@ Competition, November, 2022
 
 ### **Talks, Presentations, Projects**
 <ul>
+    <li>Automatic Generation & Optimization of RFIC Passives (2026), <a href="/images/rfic_passives.pdf">Slides here</a></li>
     <li>Cohomology of Lie Algebras and The Levi Decomposition (2026), <a href="/images/LieAlgPaper.pdf">Paper here</a></li>
     <li>14-16 GHz Sliding-IF Receiver on 45nm CMOS (2025), <a href="/images/slidingif.pdf">Paper here</a>, <a href="/images/FinalPresentation.pdf">Slides here</a></li>
     <li>Spectral Theory and Geometry (2025), <a href="/images/specgeo.pdf">Slides here</a></li>
